@@ -1,9 +1,10 @@
-<!html>
+<html>
 <head> 
-    <title>  
+<link rel="stylesheet" type="text/css" href="mainstyle.css">    
+<title>  
              Dinesh Auto Works    </title>
-<head>
-
+</head>
+<body>
 <form action="confirmorder.php" method="post">
 <table border = "0">
 <tr bgcolor = "#56ab4d">

@@ -1,6 +1,7 @@
 <!html>
 <head> 
-    <title>  
+<link rel="stylesheet" type="text/css" href="mainstyle.css">    
+<title>  
              Dinesh Auto Works    </title>
 <head>
 
@@ -16,7 +17,9 @@
 <td align="center"><input type = "test" name = "tireqty" size="3"c maxlength="3"></td>
 </tr>
 <tr>
+<td>
 <input type="submit" value="Submit Order">
+</td>
 </tr>
 
 </table>
