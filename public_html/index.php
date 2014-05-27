@@ -18,6 +18,18 @@
 </tr>
 <tr>
 <td>
+How did you find us ?
+</td>
+<td>
+<select name="found">
+<option value="a">Word of mouth </option>
+<option value="b">Internet</option>
+<option value="c">Newspaper</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>
 <input type="submit" value="Submit Order">
 </td>
 </tr>
